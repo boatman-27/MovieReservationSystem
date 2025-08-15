@@ -2,7 +2,7 @@
 
 This project is a complete backend system for a movie booking application, built with Go (Gin) and PostgreSQL. It allows users to sign up, log in, browse movies, view showtimes, and book or cancel reservations. Admin users can manage movies, showtimes, and view user activity.
 
-> This implementation is inspired by the [roadmap.sh Movie Reservation System Project](https://roadmap.sh/projects/movie-reservation-system). For a deeper dive into the design and architecture, please refer to the [Project Wiki](https://github.com/labasubagia/movie-reservation-system/wiki).
+> This implementation is inspired by the [roadmap.sh Movie Reservation System Project](https://roadmap.sh/projects/movie-reservation-system). For a deeper dive into the design and architecture.
 
 ---
 
